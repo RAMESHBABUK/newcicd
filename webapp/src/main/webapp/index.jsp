@@ -4,4 +4,4 @@
 <h2> Auto deploy of SCM Code test completed - Tomcat container </h2>
 <h2> Auto full deployment completed </h2>
 <h2> Auto full deployment completed in the server this is second updated file</h2i>
-<h2> Git hub push demo </h2>
+<h2> New v1.1 release Git hub push demo </h2>
